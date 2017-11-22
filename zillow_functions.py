@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # Zillow scraper functions, these are sourced at the top of zillow_runfile.py
-
 import re as re
 import time
 import zipcode
@@ -15,12 +14,12 @@ def zipcodes_list(st_items):
     # If st_items is a single zipcode string.
     if type(st_items) == str:
         zc_objects = zipcode.islike(st_items)
-        output = [str(i).split(" ", 1)[1].split(">")[0] 
+        output = [str(i).split(" ", 1)[1].split(">")[0]
                     for i in zc_objects]
     # If st_items is a list of zipcode strings.
     elif type(st_items) == list:
         zc_objects = [n for i in st_items for n in zipcode.islike(str(i))]
-        output = [str(i).split(" ", 1)[1].split(">")[0] 
+        output = [str(i).split(" ", 1)[1].split(">")[0]
                     for i in zc_objects]
     else:
         raise ValueError("input 'st_items' must be of type str or list")
@@ -93,9 +92,9 @@ def get_html(driver):
         except NoSuchElementException:
             keep_going = False
         if keep_going:
-            # Test to ensure the "updating results" image isnt displayed. 
-            # Will try up to 5 times before giving up, with a 5 second wait 
-            # between each try. 
+            # Test to ensure the "updating results" image isnt displayed.
+            # Will try up to 5 times before giving up, with a 5 second wait
+            # between each try.
             tries = 5
             try:
                 cover = driver.find_element_by_class_name(
@@ -110,9 +109,9 @@ def get_html(driver):
                         'list-loading-message-cover').is_displayed()
                 except (TimeoutException, NoSuchElementException):
                     cover = False
-            # If the "updating results" image is confirmed to be gone 
-            # (cover == False), click next page. Otherwise, give up on trying 
-            # to click thru to the next page of house results, and return the 
+            # If the "updating results" image is confirmed to be gone
+            # (cover == False), click next page. Otherwise, give up on trying
+            # to click thru to the next page of house results, and return the
             # results that have been scraped up to the current page.
             if cover == False:
                 try:
@@ -143,8 +142,8 @@ def get_street_address(soup_obj):
     if len(street) == 0 or street == "null":
         street = "NA"
     return(street)
-    
-    
+
+
 def get_city(soup_obj):
     try:
         city = soup_obj.find(
@@ -164,7 +163,7 @@ def get_state(soup_obj):
     if len(state) == 0 or state == 'null':
         state = "NA"
     return(state)
-    
+
 def get_zipcode(soup_obj):
     try:
         zipcode = soup_obj.find(
@@ -183,7 +182,7 @@ def get_price(soup_obj, list_obj):
     except (ValueError, AttributeError):
         # If that fails, look for price within list_obj (object "card_info").
         try:
-            price = [n for n in list_obj 
+            price = [n for n in list_obj
                 if any(["$" in n, "K" in n, "k" in n])]
             if len(price) > 0:
                 price = price[0].split(" ")
@@ -216,9 +215,9 @@ def get_price(soup_obj, list_obj):
         if len(price) == 0:
             price = 'NA'
     return(price)
-    
+
 def get_card_info(soup_obj):
-    # For most listings, card_info will contain info on number of bedrooms, 
+    # For most listings, card_info will contain info on number of bedrooms,
     # number of bathrooms, square footage, and sometimes price.
     try:
         card = soup_obj.find(

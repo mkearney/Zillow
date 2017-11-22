@@ -1,0 +1,501 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+2616 Morning Glory Dr,Columbia,MO,65202,199900,2114.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2616-Morning-Glory-Dr-Columbia-MO-65202/58697563_zpid/
+5616 Dunmeyer Ct,Columbia,MO,65203,245000,1808.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5616-Dunmeyer-Ct-Columbia-MO-65203/103675224_zpid/
+6307 Bridle Bend Dr,Columbia,MO,65201,329900,2050.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6307-Bridle-Bend-Dr-Columbia-MO-65201/103711847_zpid/
+3407 Timber Run Dr,Columbia,MO,65203,204900,1610.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3407-Timber-Run-Dr-Columbia-MO-65203/2094512088_zpid/
+1504 E Lexington Cir S,Columbia,MO,65203,199500,2234.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1504-E-Lexington-Cir-S-Columbia-MO-65203/58702551_zpid/
+3811 Addison Dr,Columbia,MO,65203,256000,2553.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3811-Addison-Dr-Columbia-MO-65203/58703607_zpid/
+3506 Timber Run Dr,Columbia,MO,65203,319900,2610.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3506-Timber-Run-Dr-Columbia-MO-65203/2093532164_zpid/
+4911 Laredo Trl,Columbia,MO,65203,368000,3224.0,5.0,5.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4911-Laredo-Trl-Columbia-MO-65203/80268736_zpid/
+7406 Rosedown Dr,Columbia,MO,65203,232000,1865.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7406-Rosedown-Dr-Columbia-MO-65203/80183065_zpid/
+608 Old Hawthorne Dr E,Columbia,MO,65201,325000,2000.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/608-Old-Hawthorne-Dr-E-Columbia-MO-65201/122920767_zpid/
+5608 Spicewood Dr,Columbia,MO,65203,379900,3036.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5608-Spicewood-Dr-Columbia-MO-65203/2093068584_zpid/
+2807 Mulberry Rd,Columbia,MO,65202,94900,1200.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2807-Mulberry-Rd-Columbia-MO-65202/58713411_zpid/
+800 Cutters Corner Ln,Columbia,MO,65201,435000,3510.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/800-Cutters-Corner-Ln-Columbia-MO-65201/103688260_zpid/
+5101 Bethel St,Columbia,MO,65203,159900,1944.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5101-Bethel-St-Columbia-MO-65203/58712807_zpid/
+208 William Smith Pl,Columbia,MO,65203,365000,2795.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/208-William-Smith-Pl-Columbia-MO-65203/2095025011_zpid/
+3271 S Country Woods Rd,Columbia,MO,65203,425000,4185.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3271-S-Country-Woods-Rd-Columbia-MO-65203/58709548_zpid/
+2606 Jonquil Pl,Columbia,MO,65202,169900,1900.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2606-Jonquil-Pl-Columbia-MO-65202/58697689_zpid/
+3408 Timber Run Dr,Columbia,MO,65203,320500,2738.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3408-Timber-Run-Dr-Columbia-MO-65203/2095369877_zpid/
+5801 Thornbrook Pkwy,Columbia,MO,65203,375000,4654.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5801-Thornbrook-Pkwy-Columbia-MO-65203/58719960_zpid/
+3308 Timber Run Dr,Columbia,MO,65203,299900,1700.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3308-Timber-Run-Dr-Columbia-MO-65203/2094110593_zpid/
+802 Copse Ct,Columbia,MO,65201,239900,2384.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/802-Copse-Ct-Columbia-MO-65201/89309525_zpid/
+4903 Steeplechase Dr,Columbia,MO,65203,575000,5900.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4903-Steeplechase-Dr-Columbia-MO-65203/67318610_zpid/
+4006 W Worley St APT 202,Columbia,MO,65203,162400,1359.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4006-W-Worley-St-APT-202-Columbia-MO-65203/2097463186_zpid/
+3508 Timber Run Dr,Columbia,MO,65203,304900,2738.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3508-Timber-Run-Dr-Columbia-MO-65203/2095370028_zpid/
+6504 Rippling Water Way,COLUMBIA,MO,65201,475000,4168.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6504-Rippling-Water-Way-Columbia-MO-65201/96752643_zpid/
+3204 Timber Run Dr,Columbia,MO,65203,244900,1765.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3204-Timber-Run-Dr-Columbia-MO-65203/2093411884_zpid/
+3500 Timber Run Dr,Columbia,MO,65203,309900,2833.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3500-Timber-Run-Dr-Columbia-MO-65203/2094514466_zpid/
+1315 Sedona Villas Dr,Columbia,MO,65203,225000,1570.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1315-Sedona-Villas-Dr-Columbia-MO-65203/58711946_zpid/
+3402 Timber Run Dr,Columbia,MO,65203,299900,1700.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3402-Timber-Run-Dr-Columbia-MO-65203/2093433268_zpid/
+3102 Timber Run Dr,Columbia,MO,65203,284900,1946.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3102-Timber-Run-Dr-Columbia-MO-65203/2095798827_zpid/
+4402 Thornbrook Rdg,Columbia,MO,65203,368000,3595.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4402-Thornbrook-Rdg-Columbia-MO-65203/70886289_zpid/
+5651 Ralph Dobbs Way,Columbia,MO,65203,340000,2620.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5651-Ralph-Dobbs-Way-Columbia-MO-65203/2096118769_zpid/
+400 E Cedar Ct,Columbia,MO,65202,119900,1560.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/400-E-Cedar-Ct-Columbia-MO-65202/58722891_zpid/
+6005 N Vickie Dr,Columbia,MO,65202,95000,1343.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6005-N-Vickie-Dr-Columbia-MO-65202/58692960_zpid/
+5302 Aspen Ridge Dr,Columbia,MO,65202,159900,1400.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5302-Aspen-Ridge-Dr-Columbia-MO-65202/2092012944_zpid/
+1109 Locust St,Columbia,MO,65201,675000,2800.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1109-Locust-St-Columbia-MO-65201/58714435_zpid/
+4001 Kirkwood Ct,Columbia,MO,65202,159900,1450.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4001-Kirkwood-Ct-Columbia-MO-65202/70894684_zpid/
+1209 Crump Ln,Columbia,MO,65202,105900,1104.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1209-Crump-Ln-Columbia-MO-65202/58714877_zpid/
+3206 Fox Trot Dr,Columbia,MO,65202,185000,1704.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3206-Fox-Trot-Dr-Columbia-MO-65202/67322907_zpid/
+906 N 7th St,Columbia,MO,65201,130000,1600.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/906-N-7th-St-Columbia-MO-65201/58700189_zpid/
+3600 Snow Leopard Dr,Columbia,MO,65202,182900,1661.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3600-Snow-Leopard-Dr-Columbia-MO-65202/80268739_zpid/
+4409 Glen Eagle Dr,Columbia,MO,65203,297500,2612.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4409-Glen-Eagle-Dr-Columbia-MO-65203/58710323_zpid/
+4328-4330 W Bethany Dr,COLUMBIA,MO,65203,130000,2656.0,0.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4328-4330-W-Bethany-Dr-Columbia-MO-65203/58708933_zpid/
+300 Cedar Falls Ct,Columbia,MO,65203,350000,3300.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-Cedar-Falls-Ct-Columbia-MO-65203/103701358_zpid/
+501 & 507 Hickman Ave,Columbia,MO,65203,149900,NA,0.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/501-&-507-Hickman-Ave-Columbia-MO-65203/2092014614_zpid/
+2816 Leeway Dr,Columbia,MO,65202,215000,3402.0,0.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2816-Leeway-Dr-Columbia-MO-65202/58694967_zpid/
+2812 Skyview Rd # 2814,Columbia,MO,65202,120000,3402.0,0.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2812-Skyview-Rd-2814-Columbia-MO-65202/58695357_zpid/
+3105 Alsup Dr,Columbia,MO,65203,207000,2946.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3105-Alsup-Dr-Columbia-MO-65203/58706113_zpid/
+911 N 8th St # A,Columbia,MO,65201,99999,1302.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/911-N-8th-St-A-Columbia-MO-65201/2095969341_zpid/
+3709 Timber Run Dr,Columbia,MO,65203,210000,1682.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3709-Timber-Run-Dr-Columbia-MO-65203/103711272_zpid/
+1805 Ridgemont,Columbia,MO,65203,159900,3025.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-Ridgemont-Columbia-MO-65203/58706683_zpid/
+7200 E Highway Ww,Columbia,MO,65201,135000,2011.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/7200-E-Highway-Ww-Columbia-MO-65201/58719023_zpid/
+5121 N Lotus Loop,Columbia,MO,65202,59900,1389.0,3.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/5121-N-Lotus-Loop-Columbia-MO-65202/58692324_zpid/
+625 Promenade Dr,Columbia,MO,65202,179900,1520.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/625-Promenade-Dr-Columbia-MO-65202/2092043543_zpid/
+115 Meadow Ln,Columbia,MO,65203,170000,1850.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Meadow-Ln-Columbia-MO-65203/58701156_zpid/
+2503 Umc Dr,Columbia,MO,65201,182900,1330.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2503-Umc-Dr-Columbia-MO-65201/58707039_zpid/
+2200 Ridgemont,Columbia,MO,65203,185000,1959.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2200-Ridgemont-Columbia-MO-65203/58706459_zpid/
+3412-3414 Keenes Edge Dr,COLUMBIA,MO,65201,259900,3000.0,0.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3412-3414-Keenes-Edge-Dr-Columbia-MO-65201/58713196_zpid/
+910 W Texas Ave,Columbia,MO,65202,170000,1960.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/910-W-Texas-Ave-Columbia-MO-65202/58698845_zpid/
+1110 W Worley St,Columbia,MO,65203,125000,1240.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1110-W-Worley-St-Columbia-MO-65203/58700360_zpid/
+4403 Crystal Rock Ct,Columbia,MO,65203,179900,1500.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4403-Crystal-Rock-Ct-Columbia-MO-65203/58723115_zpid/
+207 Jackal Dr,Columbia,MO,65202,175000,1666.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/207-Jackal-Dr-Columbia-MO-65202/67319843_zpid/
+4500 Hockaday Pl,Columbia,MO,65202,155000,1476.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4500-Hockaday-Pl-Columbia-MO-65202/58693565_zpid/
+4003 Copperstone Creek Dr,Columbia,MO,65203,489900,3450.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4003-Copperstone-Creek-Dr-Columbia-MO-65203/2092068871_zpid/
+4200 Culpeper Dr,Columbia,MO,65202,172000,1600.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4200-Culpeper-Dr-Columbia-MO-65202/58693755_zpid/
+1009 W Trobridge Rd,Columbia,MO,65202,180000,1850.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1009-W-Trobridge-Rd-Columbia-MO-65202/58691049_zpid/
+N Creasy Springs Rd LOT 2,Columbia,MO,65202,73400,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/N-Creasy-Springs-Rd-LOT-2-Columbia-MO-65202/2092028802_zpid/
+4013 Blue Hollow Dr,Columbia,MO,65203,321500,2260.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4013-Blue-Hollow-Dr-Columbia-MO-65203/102959732_zpid/
+N Creasy Springs Rd LOT 3,Columbia,MO,65202,71400,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/N-Creasy-Springs-Rd-LOT-3-Columbia-MO-65202/2092028803_zpid/
+3909 Richmond Heights Ct,Columbia,MO,65202,159900,1375.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3909-Richmond-Heights-Ct-Columbia-MO-65202/70894682_zpid/
+2601 Spanish Bay Dr,Columbia,MO,65202,166000,1552.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2601-Spanish-Bay-Dr-Columbia-MO-65202/89284232_zpid/
+5200 Sandstone Dr,Columbia,MO,65202,146900,1516.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5200-Sandstone-Dr-Columbia-MO-65202/58695823_zpid/
+E Panama Rd,Nevada,MO,65201,372255,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/E-Panama-Rd-Nevada-MO-65201/2092033972_zpid/
+503 N Brookline Dr,Columbia,MO,65203,200000,1762.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/503-N-Brookline-Dr-Columbia-MO-65203/58712142_zpid/
+3102 Alligator Ln,Columbia,MO,65202,225000,2446.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3102-Alligator-Ln-Columbia-MO-65202/80268829_zpid/
+314 Bay Pointe Ln,Columbia,MO,65201,162500,1368.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/314-Bay-Pointe-Ln-Columbia-MO-65201/70890912_zpid/
+1403 Berwick Ct,Columbia,MO,65203,260000,2485.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1403-Berwick-Ct-Columbia-MO-65203/58710115_zpid/
+103 Haywood Ct,Columbia,MO,65203,330000,3000.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/103-Haywood-Ct-Columbia-MO-65203/58701810_zpid/
+1822 N Lake Of The Woods Rd,Columbia,MO,65202,139900,1056.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1822-N-Lake-Of-The-Woods-Rd-Columbia-MO-65202/58716644_zpid/
+1508 Lambeth Dr # 1,Columbia,MO,65202,150000,2629.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1508-Lambeth-Dr-1-Columbia-MO-65202/2096752787_zpid/
+3804 Mamba Dr,Columbia,MO,65202,238500,2803.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3804-Mamba-Dr-Columbia-MO-65202/60057133_zpid/
+1616 1618 N Telluride Ln,Columbia,MO,65201,180000,NA,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1616-1618-N-Telluride-Ln-Columbia-MO-65201/2092085730_zpid/
+3110 Timber Run Dr,Columbia,MO,65203,262500,1800.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3110-Timber-Run-Dr-Columbia-MO-65203/2092057603_zpid/
+L 217 Nursery Hts,Columbia,MO,65203,312900,1610.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/L-217-Nursery-Hts-Columbia-MO-65203/2092068749_zpid/
+Roscoe Rdg LOT 618,Columbia,MO,65203,399900,3047.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Roscoe-Rdg-LOT-618-Columbia-MO-65203/2092090367_zpid/
+Roscoe Rdg LOT 619,Columbia,MO,65203,399900,3047.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Roscoe-Rdg-LOT-619-Columbia-MO-65203/2092090366_zpid/
+Bandon Dunes Ct LOT 125,Columbia,MO,65201,384900,2989.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Bandon-Dunes-Ct-LOT-125-Columbia-MO-65201/2092090365_zpid/
+4201 Clark Ln LOT 94,Columbia,MO,65202,7000,NA,2.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4201-Clark-Ln-LOT-94-Columbia-MO-65202/2092323148_zpid/
+2410 Thornberry Dr,Columbia,MO,65202,101000,1510.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2410-Thornberry-Dr-Columbia-MO-65202/67322980_zpid/
+1621 Ashland Rd,Columbia,MO,65201,1100000,1100.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1621-Ashland-Rd-Columbia-MO-65201/2097405483_zpid/
+5533 N Rocky Fork Dr,Columbia,MO,65202,101000,1034.0,3.0,2.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/5533-N-Rocky-Fork-Dr-Columbia-MO-65202/82752792_zpid/
+5308 Sandstone Dr,Columbia,MO,65202,172500,1834.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5308-Sandstone-Dr-Columbia-MO-65202/70886148_zpid/
+112 W Forest Ave,Columbia,MO,65203,65000,NA,0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-W-Forest-Ave-Columbia-MO-65203/58699790_zpid/
+5905 N Kent Dr,Columbia,MO,65202,89000,1674.0,3.0,1.5,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/5905-N-Kent-Dr-Columbia-MO-65202/58693026_zpid/
+7005 N Moberly Dr,Columbia,MO,65202,97000,1488.0,3.0,1.5,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/7005-N-Moberly-Dr-Columbia-MO-65202/58691307_zpid/
+116 Pinewood Dr,Columbia,MO,65203,107000,978.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/116-Pinewood-Dr-Columbia-MO-65203/58700688_zpid/
+1504 Park De Ville Pl,Columbia,MO,65203,82500,1025.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1504-Park-De-Ville-Pl-Columbia-MO-65203/58698014_zpid/
+1201 Old 63 S APT 504,Columbia,MO,65201,121000,1407.0,3.0,2.5,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/1201-Old-63-S-APT-504-Columbia-MO-65201/2092995569_zpid/
+2801 W Broadway APT L2,Columbia,MO,65203,92000,1184.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2801-W-Broadway-APT-L2-Columbia-MO-65203/58697237_zpid/
+5009 Geetha Dr,Columbia,MO,65202,187498,2125.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5009-Geetha-Dr-Columbia-MO-65202/70887161_zpid/
+2401 Norbury Dr,Columbia,MO,65202,149900,1490.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2401-Norbury-Dr-Columbia-MO-65202/70890823_zpid/
+903 Broadhead St,Columbia,MO,65203,142000,1108.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/903-Broadhead-St-Columbia-MO-65203/58700786_zpid/
+3705 N Oakland Gravel Rd,Columbia,MO,65202,125000,1770.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3705-N-Oakland-Gravel-Rd-Columbia-MO-65202/89319190_zpid/
+802 S Fairview Rd APT D13,Columbia,MO,65203,82500,928.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/802-S-Fairview-Rd-APT-D13-Columbia-MO-65203/58705750_zpid/
+109 W Craig St,Columbia,MO,65202,139900,2038.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/109-W-Craig-St-Columbia-MO-65202/58698488_zpid/
+2455 N Lakeland Dr,Columbia,MO,65202,189900,2366.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2455-N-Lakeland-Dr-Columbia-MO-65202/58716578_zpid/
+1623 Timber Creek Dr,Columbia,MO,65202,89900,1260.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1623-Timber-Creek-Dr-Columbia-MO-65202/70890740_zpid/
+107 Aldeah Ave,Columbia,MO,65203,170000,1024.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/107-Aldeah-Ave-Columbia-MO-65203/58701207_zpid/
+5909 Freeport Way,Columbia,MO,65201,165000,1530.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5909-Freeport-Way-Columbia-MO-65201/83035067_zpid/
+7301 Rudchester Dr,Columbia,MO,65203,637000,3601.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7301-Rudchester-Dr-Columbia-MO-65203/2092496991_zpid/
+3914 Clydesdale Dr,Columbia,MO,65202,182900,1473.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3914-Clydesdale-Dr-Columbia-MO-65202/2092207751_zpid/
+201 Hirth Ave,Columbia,MO,65203,90000,955.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-Hirth-Ave-Columbia-MO-65203/58700968_zpid/
+12 Aldeah Ave,Columbia,MO,65203,185000,1229.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/12-Aldeah-Ave-Columbia-MO-65203/58701483_zpid/
+4804 Alcott Dr,Columbia,MO,65202,156900,1526.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4804-Alcott-Dr-Columbia-MO-65202/58693645_zpid/
+615 Portsmouth Dr,Columbia,MO,65202,159900,2074.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/615-Portsmouth-Dr-Columbia-MO-65202/58698290_zpid/
+110 W Forest Ave,Columbia,MO,65203,85000,880.0,0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-W-Forest-Ave-Columbia-MO-65203/58699789_zpid/
+2137 E Northwood Dr,Columbia,MO,65202,159900,2174.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2137-E-Northwood-Dr-Columbia-MO-65202/58692800_zpid/
+1811 Bluff Pointe Dr,Columbia,MO,65201,314900,3750.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1811-Bluff-Pointe-Dr-Columbia-MO-65201/58718526_zpid/
+5801 E Osage Ridge Ln,Columbia,MO,65201,525000,3669.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5801-E-Osage-Ridge-Ln-Columbia-MO-65201/2092214740_zpid/
+3109 Yorktown Dr,Columbia,MO,65203,168000,1808.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3109-Yorktown-Dr-Columbia-MO-65203/58705473_zpid/
+1216 Subella Dr,Columbia,MO,65203,177900,2062.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1216-Subella-Dr-Columbia-MO-65203/58706078_zpid/
+3800 Barrington Dr,Columbia,MO,65203,274500,2973.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3800-Barrington-Dr-Columbia-MO-65203/58712057_zpid/
+2612 Stratford Chase Cir,Columbia,MO,65201,315000,1896.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2612-Stratford-Chase-Cir-Columbia-MO-65201/103680439_zpid/
+2905 Farleigh Ct,Columbia,MO,65203,465000,3476.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2905-Farleigh-Ct-Columbia-MO-65203/2092239069_zpid/
+2159 S El Chaparral Ave,Columbia,MO,65201,129900,1668.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2159-S-El-Chaparral-Ave-Columbia-MO-65201/58718864_zpid/
+4501 Salem Dr,Columbia,MO,65203,127900,1240.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4501-Salem-Dr-Columbia-MO-65203/58702987_zpid/
+812 Colgate,COLUMBIA,MO,65203,29900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/812-Colgate-Columbia-MO-65203/103675082_zpid/
+1908 Granite Oak Ct,Columbia,MO,65203,207000,1725.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1908-Granite-Oak-Ct-Columbia-MO-65203/60057260_zpid/
+4403 Rice Rd,Columbia,MO,65202,150000,1958.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4403-Rice-Rd-Columbia-MO-65202/58715021_zpid/
+1712 Olympic Blvd,Columbia,MO,65202,135000,1266.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1712-Olympic-Blvd-Columbia-MO-65202/58715644_zpid/
+6720 W Gillespie Bridge Rd,Columbia,MO,65203,150000,1150.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6720-W-Gillespie-Bridge-Rd-Columbia-MO-65203/58701910_zpid/
+2477 E Buffalo Dr,Columbia,MO,65202,159900,1580.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2477-E-Buffalo-Dr-Columbia-MO-65202/58692865_zpid/
+44 S Scott Blvd,Columbia,MO,65203,525000,3800.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-S-Scott-Blvd-Columbia-MO-65203/2092128087_zpid/
+4904 Cochero Ct,Columbia,MO,65203,289900,2519.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4904-Cochero-Ct-Columbia-MO-65203/67317391_zpid/
+3107 Kunlun Dr,Columbia,MO,65203,293000,3450.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3107-Kunlun-Dr-Columbia-MO-65203/58703200_zpid/
+3800 Saddlebrook Pl APT 104,Columbia,MO,65202,103000,1212.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3800-Saddlebrook-Pl-APT-104-Columbia-MO-65202/60057179_zpid/
+5211 Thornbrook Pkwy,Columbia,MO,65203,280000,2000.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5211-Thornbrook-Pkwy-Columbia-MO-65203/102755243_zpid/
+5500 Kelsey Dr,Columbia,MO,65202,237500,3106.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5500-Kelsey-Dr-Columbia-MO-65202/60057328_zpid/
+1 Bogie Hills Dr,Columbia,MO,65201,239900,2225.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Bogie-Hills-Dr-Columbia-MO-65201/70890881_zpid/
+1810 Garden Dr,Columbia,MO,65202,169500,2640.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1810-Garden-Dr-Columbia-MO-65202/58697545_zpid/
+2801 W Broadway APT S2,Columbia,MO,65203,139900,1838.0,4.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2801-W-Broadway-APT-S2-Columbia-MO-65203/58697271_zpid/
+1798 E Riviera Dr,Columbia,MO,65202,137500,1896.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1798-E-Riviera-Dr-Columbia-MO-65202/58694408_zpid/
+1701 E Phoenix Rd,Columbia,MO,65202,130000,1247.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1701-E-Phoenix-Rd-Columbia-MO-65202/58715641_zpid/
+2 S Blue Jay Way,Columbia,MO,65203,115000,1012.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-S-Blue-Jay-Way-Columbia-MO-65203/58701925_zpid/
+5614 N Bower Ln,Columbia,MO,65201,239000,1560.0,3.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-N-Bower-Ln-Columbia-MO-65201/2092522112_zpid/
+4321 W Brookview Ct,Columbia,MO,65203,189900,2570.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4321-W-Brookview-Ct-Columbia-MO-65203/58708785_zpid/
+413 W Phyllis Ave,Columbia,MO,65202,122500,1104.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/413-W-Phyllis-Ave-Columbia-MO-65202/58698129_zpid/
+111 Blue Ridge Rd,Columbia,MO,65202,219900,1728.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/111-Blue-Ridge-Rd-Columbia-MO-65202/2092157617_zpid/
+1739 S El Centro Ct,Columbia,MO,65201,145000,1710.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1739-S-El-Centro-Ct-Columbia-MO-65201/58718817_zpid/
+400 Anderson Ave,Columbia,MO,65203,127000,852.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/400-Anderson-Ave-Columbia-MO-65203/58700756_zpid/
+1412 Wilkes Blvd,Columbia,MO,65201,130000,1112.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1412-Wilkes-Blvd-Columbia-MO-65201/58713780_zpid/
+Parkside Ests LOT 122,Columbia,MO,65203,85000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Parkside-Ests-LOT-122-Columbia-MO-65203/2101627536_zpid/
+4501 N Oneal Rd,Columbia,MO,65202,79900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4501-N-Oneal-Rd-Columbia-MO-65202/2092268304_zpid/
+601 Westmount Ave,Columbia,MO,65203,595000,3617.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/601-Westmount-Ave-Columbia-MO-65203/58707803_zpid/
+4104 Watertown Pl,Columbia,MO,65203,275000,2159.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4104-Watertown-Pl-Columbia-MO-65203/58710664_zpid/
+3809 Armadillo Dr,Columbia,MO,65202,219900,2306.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3809-Armadillo-Dr-Columbia-MO-65202/67318311_zpid/
+3912 N Cotton Wood Ct,Columbia,MO,65202,139900,1211.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3912-N-Cotton-Wood-Ct-Columbia-MO-65202/58695739_zpid/
+5903 Kelsey Dr,Columbia,MO,65202,187000,2235.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5903-Kelsey-Dr-Columbia-MO-65202/58714637_zpid/
+5303 Sandstone Dr,Columbia,MO,65202,154900,1811.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5303-Sandstone-Dr-Columbia-MO-65202/67317044_zpid/
+4717 Stone Mountain Pkwy,Columbia,MO,65201,340000,2393.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4717-Stone-Mountain-Pkwy-Columbia-MO-65201/2092268307_zpid/
+205 Whitetail Dr,Columbia,MO,65202,179900,1935.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-Whitetail-Dr-Columbia-MO-65202/67316920_zpid/
+Rutland Dr LOT 4A,Columbia,MO,65203,69900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Rutland-Dr-LOT-4A-Columbia-MO-65203/2092239068_zpid/
+4015 Arctic Fox Dr,Columbia,MO,65202,168000,1670.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4015-Arctic-Fox-Dr-Columbia-MO-65202/67319887_zpid/
+6635 N Nelson Dr,Columbia,MO,65202,134900,1715.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6635-N-Nelson-Dr-Columbia-MO-65202/58693344_zpid/
+109 Blue Ridge Rd,Columbia,MO,65202,219900,1709.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/109-Blue-Ridge-Rd-Columbia-MO-65202/2092157784_zpid/
+5306 Baseline Pl,Columbia,MO,65202,179900,1800.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5306-Baseline-Pl-Columbia-MO-65202/2092315161_zpid/
+2125 Mcintosh Dr,Columbia,MO,65202,269990,1838.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2125-Mcintosh-Dr-Columbia-MO-65202/2092107873_zpid/
+2305 Bluff Creek Dr,Columbia,MO,65201,598000,4470.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2305-Bluff-Creek-Dr-Columbia-MO-65201/2098291072_zpid/
+703 N 6th St # A,Columbia,MO,65201,139900,1800.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/703-N-6th-St-A-Columbia-MO-65201/2092294757_zpid/
+Meandering Ct LOT 343,Columbia,MO,65202,198900,1693.0,3.0,2.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/Meandering-Ct-LOT-343-Columbia-MO-65202/2092123805_zpid/
+206 Cedar Falls Ct,Columbia,MO,65203,349900,3300.0,5.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/206-Cedar-Falls-Ct-Columbia-MO-65203/98374783_zpid/
+5607 N Rocky Fork Dr,Columbia,MO,65202,139900,1462.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5607-N-Rocky-Fork-Dr-Columbia-MO-65202/2092305007_zpid/
+700 W Green Meadows Rd,Columbia,MO,65203,179900,1420.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/700-W-Green-Meadows-Rd-Columbia-MO-65203/58712239_zpid/
+4100 W Worley St APT 106,Columbia,MO,65203,150000,1309.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4100-W-Worley-St-APT-106-Columbia-MO-65203/83031947_zpid/
+4709 Stone Mountain Pkwy,Columbia,MO,65201,249900,1653.0,3.0,2.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4709-Stone-Mountain-Pkwy-Columbia-MO-65201/2092138721_zpid/
+1916 Newton Dr # A,Columbia,MO,65202,165000,3062.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1916-Newton-Dr-A-Columbia-MO-65202/2092145165_zpid/
+0 S Tom Bass Rd,Columbia,MO,65203,985000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-S-Tom-Bass-Rd-Columbia-MO-65203/2095038191_zpid/
+W Snapdragon Dr LOT 201,Columbia,MO,65203,269900,2131.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/W-Snapdragon-Dr-LOT-201-Columbia-MO-65203/2092146083_zpid/
+5800 Oswago Cir,Columbia,MO,65201,28000,6969.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5800-Oswago-Cir-Columbia-MO-65201/2092273915_zpid/
+4114 Joslyn Ct,Columbia,MO,65203,515000,4362.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4114-Joslyn-Ct-Columbia-MO-65203/70890792_zpid/
+1932 Lasso Cir,Columbia,MO,65201,310000,1900.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1932-Lasso-Cir-Columbia-MO-65201/125072870_zpid/
+112 Cedar Falls Ct,Columbia,MO,65203,249900,1762.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-Cedar-Falls-Ct-Columbia-MO-65203/118195204_zpid/
+2400 Tahoe Ct,Columbia,MO,65203,315000,3211.0,5.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2400-Tahoe-Ct-Columbia-MO-65203/58705543_zpid/
+1306 Troon Dr,Columbia,MO,65203,289900,2076.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1306-Troon-Dr-Columbia-MO-65203/58710331_zpid/
+4005 Citation Dr,Columbia,MO,65202,232000,2896.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4005-Citation-Dr-Columbia-MO-65202/58693827_zpid/
+Parkside Ests LOT 124,Columbia,MO,65203,82500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Parkside-Ests-LOT-124-Columbia-MO-65203/2101621934_zpid/
+Parkside Ests LOT 123,Columbia,MO,65203,82500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Parkside-Ests-LOT-123-Columbia-MO-65203/2101621932_zpid/
+Parkside Ests LOT 125,Columbia,MO,65203,82500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Parkside-Ests-LOT-125-Columbia-MO-65203/2101627541_zpid/
+Parkside Ests LOT 126,Columbia,MO,65203,82500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Parkside-Ests-LOT-126-Columbia-MO-65203/2101621931_zpid/
+6502 Upper Bridle Bend Dr,Columbia,MO,65201,310000,1909.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6502-Upper-Bridle-Bend-Dr-Columbia-MO-65201/103722541_zpid/
+3404 Timber Run Dr,Columbia,MO,65203,289900,1946.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3404-Timber-Run-Dr-Columbia-MO-65203/2092276832_zpid/
+1805 Fair Oaks Ct,Columbia,MO,65201,279900,1670.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-Fair-Oaks-Ct-Columbia-MO-65201/2092268303_zpid/
+4805 Newcastle Dr,Columbia,MO,65203,329000,3298.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4805-Newcastle-Dr-Columbia-MO-65203/58709081_zpid/
+Meandering Ct LOT 345,Columbia,MO,65202,212500,1800.0,3.0,2.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/Meandering-Ct-LOT-345-Columbia-MO-65202/2092121913_zpid/
+5210 Thornbrook Pkwy,Columbia,MO,65203,424900,3905.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5210-Thornbrook-Pkwy-Columbia-MO-65203/70890958_zpid/
+3408 N Yellowwood Dr,Columbia,MO,65202,224900,1783.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3408-N-Yellowwood-Dr-Columbia-MO-65202/2092184990_zpid/
+2303 N Ballenger Ln,Columbia,MO,65202,49500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2303-N-Ballenger-Ln-Columbia-MO-65202/58715041_zpid/
+5424 Steeplechase Dr,Columbia,MO,65203,89900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5424-Steeplechase-Dr-Columbia-MO-65203/119606083_zpid/
+3602 Jungle Tree Dr,Columbia,MO,65202,254900,2798.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3602-Jungle-Tree-Dr-Columbia-MO-65202/67319874_zpid/
+4409 Canyata Ct,Columbia,MO,65203,379900,2770.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4409-Canyata-Ct-Columbia-MO-65203/126288944_zpid/
+W Posey Ln LOT 202,Columbia,MO,65203,246900,1820.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/W-Posey-Ln-LOT-202-Columbia-MO-65203/2092146085_zpid/
+Tract 20a Woodie Proctor,Columbia,MO,65203,75000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Tract-20a-Woodie-Proctor-Columbia-MO-65203/2092308275_zpid/
+W Posey Ln LOT 343,Columbia,MO,65203,225900,1530.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/W-Posey-Ln-LOT-343-Columbia-MO-65203/2092146082_zpid/
+W Posey Ln LOT 304,Columbia,MO,65203,221900,1550.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/W-Posey-Ln-LOT-304-Columbia-MO-65203/2092146084_zpid/
+Clark Ln LOT 2,Columbia,MO,65202,214420,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Clark-Ln-LOT-2-Columbia-MO-65202/2092140969_zpid/
+Tract 20b Woodie Proctor,Columbia,MO,65203,65000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Tract-20b-Woodie-Proctor-Columbia-MO-65203/2092307144_zpid/
+Tract 20c Woodie Proctor,Columbia,MO,65203,75000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Tract-20c-Woodie-Proctor-Columbia-MO-65203/2092307145_zpid/
+4803 Rainbow Trout Dr,Columbia,MO,65203,276999,3024.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4803-Rainbow-Trout-Dr-Columbia-MO-65203/58702243_zpid/
+1905 Lasso Cir,Columbia,MO,65201,384900,2900.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1905-Lasso-Cir-Columbia-MO-65201/126247739_zpid/
+3603 Meandering Ct,Columbia,MO,65202,179900,1476.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3603-Meandering-Ct-Columbia-MO-65202/2092239065_zpid/
+2508 Saint Regis Ct,Columbia,MO,65203,595000,5465.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2508-Saint-Regis-Ct-Columbia-MO-65203/67318713_zpid/
+5440 W Hatton Chapel Rd,Columbia,MO,65202,425000,3085.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5440-W-Hatton-Chapel-Rd-Columbia-MO-65202/58691618_zpid/
+4000 Southern Pine Ct,Columbia,MO,65203,365000,3744.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4000-Southern-Pine-Ct-Columbia-MO-65203/58708986_zpid/
+Sapling Ct LOT 220,Columbia,MO,65203,199900,1321.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Sapling-Ct-LOT-220-Columbia-MO-65203/2092236829_zpid/
+Cowan Dr,Columbia,MO,65201,274000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Cowan-Dr-Columbia-MO-65201/2092275814_zpid/
+6401 Shallow River Dr,Columbia,MO,65201,395000,3190.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6401-Shallow-River-Dr-Columbia-MO-65201/122923177_zpid/
+6510 Cashs Xing,Columbia,MO,65201,459900,3400.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6510-Cashs-Xing-Columbia-MO-65201/119606213_zpid/
+1804 Random Rdg,Columbia,MO,65201,379900,2792.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1804-Random-Rdg-Columbia-MO-65201/2092264570_zpid/
+300-302 Clinkscales Rd,Columbia,MO,65203,159000,NA,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-302-Clinkscales-Rd-Columbia-MO-65203/2092232939_zpid/
+Dumont Ln LOT 124,Columbia,MO,65203,160000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Dumont-Ln-LOT-124-Columbia-MO-65203/2095281768_zpid/
+5900 Abbey Ln,Columbia,MO,65202,235400,1658.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5900-Abbey-Ln-Columbia-MO-65202/2092243572_zpid/
+5284 W Route K,Columbia,MO,65203,115000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5284-W-Route-K-Columbia-MO-65203/2092309219_zpid/
+Hanover Blvd/clark Ln LOT 6,Columbia,MO,65202,215600,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Hanover-Blvd-clark-Ln-LOT-6-Columbia-MO-65202/2092315554_zpid/
+Chinaberry Dr,COLUMBIA,MO,65201,1200000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Chinaberry-Dr-Columbia-MO-65201/103685707_zpid/
+6555 W Hatton Chapel Rd,Columbia,MO,65202,55400,1792.0,4.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/6555-W-Hatton-Chapel-Rd-Columbia-MO-65202/2131095420_zpid/
+408 Grapevine Ct,Columbia,MO,65203,189900,4540.0,5.0,4.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/408-Grapevine-Ct-Columbia-MO-65203/70894721_zpid/
+2500 Quail Dr,Columbia,MO,65202,70000,1872.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2500-Quail-Dr-Columbia-MO-65202/58713610_zpid/
+3816 Pinecrest Dr,Columbia,MO,65202,155500,2400.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3816-Pinecrest-Dr-Columbia-MO-65202/58694874_zpid/
+3909 Deerfoot Way,COLUMBIA,MO,65203,299000,3489.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3909-Deerfoot-Way-Columbia-MO-65203/70886371_zpid/
+607 W Ash St,Columbia,MO,65203,137900,1377.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/607-W-Ash-St-Columbia-MO-65203/58700924_zpid/
+529 E Clearview Dr,Columbia,MO,65202,99900,1257.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/529-E-Clearview-Dr-Columbia-MO-65202/58691458_zpid/
+5300 N Creasy Springs Rd,Columbia,MO,65202,189500,3064.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5300-N-Creasy-Springs-Rd-Columbia-MO-65202/58691229_zpid/
+4114 E Doe Creek Dr,Columbia,MO,65202,121000,1482.0,3.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/4114-E-Doe-Creek-Dr-Columbia-MO-65202/103711774_zpid/
+1414 Fir Pl,Columbia,MO,65201,69500,896.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1414-Fir-Pl-Columbia-MO-65201/58713439_zpid/
+232 E Clearview Dr,Columbia,MO,65202,116900,1080.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/232-E-Clearview-Dr-Columbia-MO-65202/58691420_zpid/
+4110 Juniper Pl # 4110,Columbia,MO,65201,289000,3600.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4110-Juniper-Pl-4110-Columbia-MO-65201/2093625317_zpid/
+2027 S El Chaparral Ave,Columbia,MO,65201,105000,1153.0,3.0,2.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/2027-S-El-Chaparral-Ave-Columbia-MO-65201/58718868_zpid/
+1424-1426 Greensboro Dr,COLUMBIA,MO,65202,144000,2804.0,4.0,3.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1424-1426-Greensboro-Dr-Columbia-MO-65202/67319991_zpid/
+4000 Baurichter Dr,Columbia,MO,65203,245000,2279.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4000-Baurichter-Dr-Columbia-MO-65203/58710701_zpid/
+9101 N Highway Vv,Columbia,MO,65202,130000,1792.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9101-N-Highway-Vv-Columbia-MO-65202/58690942_zpid/
+478 N Grace Ln,Columbia,MO,65201,124900,1365.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/478-N-Grace-Ln-Columbia-MO-65201/58716401_zpid/
+4422 S Germantown Dr,Clark,MO,65203,60000,1092.0,2.0,1.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4422-S-Germantown-Dr-Clark-MO-65203/2093563019_zpid/
+1408-1410 Greensboro Dr,COLUMBIA,MO,65202,133000,2804.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1408-1410-Greensboro-Dr-Columbia-MO-65202/67319995_zpid/
+100 E Green Meadows Rd APT 11,Columbia,MO,65203,167000,1612.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-E-Green-Meadows-Rd-APT-11-Columbia-MO-65203/58711382_zpid/
+2 4th Ave,Columbia,MO,65203,59000,690.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-4th-Ave-Columbia-MO-65203/58699733_zpid/
+6260 N Gregory Dr,Columbia,MO,65202,150000,1840.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6260-N-Gregory-Dr-Columbia-MO-65202/67317571_zpid/
+1115 Kennesaw Ridge Rd,Columbia,MO,65202,98000,1135.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1115-Kennesaw-Ridge-Rd-Columbia-MO-65202/2103288610_zpid/
+5855 N South Ct,Columbia,MO,65202,205000,1942.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5855-N-South-Ct-Columbia-MO-65202/58691144_zpid/
+801 Cypress Ln,Columbia,MO,65203,142900,1832.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/801-Cypress-Ln-Columbia-MO-65203/58711049_zpid/
+108 W Forest Ave,Columbia,MO,65203,74900,1080.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/108-W-Forest-Ave-Columbia-MO-65203/58699788_zpid/
+603 N 6th St,Columbia,MO,65201,77900,1028.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/603-N-6th-St-Columbia-MO-65201/58700274_zpid/
+2455 E Clays Fork Rd,Columbia,MO,65202,69500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2455-E-Clays-Fork-Rd-Columbia-MO-65202/2092695872_zpid/
+2105 Park De Ville Pl,Columbia,MO,65203,84900,1050.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2105-Park-De-Ville-Pl-Columbia-MO-65203/58697855_zpid/
+749 Demaret Dr,Columbia,MO,65202,95000,2464.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/749-Demaret-Dr-Columbia-MO-65202/58716769_zpid/
+715 W Stewart Rd,Columbia,MO,65203,259900,2627.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/715-W-Stewart-Rd-Columbia-MO-65203/58707679_zpid/
+1108 Sunset Dr,Columbia,MO,65203,246900,2091.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1108-Sunset-Dr-Columbia-MO-65203/58708003_zpid/
+109 Defoe Ct,Columbia,MO,65203,200000,2783.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/109-Defoe-Ct-Columbia-MO-65203/58704731_zpid/
+4416 Oakview Dr,Columbia,MO,65202,137900,2024.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4416-Oakview-Dr-Columbia-MO-65202/58696017_zpid/
+707 King Ave,Columbia,MO,65203,149000,1426.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/707-King-Ave-Columbia-MO-65203/58699905_zpid/
+3907 Eagle View Ct,Columbia,MO,65203,339000,2925.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3907-Eagle-View-Ct-Columbia-MO-65203/2092843397_zpid/
+300 E Briarwood Ln,Columbia,MO,65203,165000,2391.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-Briarwood-Ln-Columbia-MO-65203/58705316_zpid/
+5404 Gemstone Dr,COLUMBIA,MO,65202,154000,1432.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5404-Gemstone-Dr-Columbia-MO-65202/103694981_zpid/
+1705 Jackson St,Columbia,MO,65202,97500,1556.0,3.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/1705-Jackson-St-Columbia-MO-65202/58698882_zpid/
+4517 Waterloo Dr,Columbia,MO,65202,92500,1175.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4517-Waterloo-Dr-Columbia-MO-65202/58715081_zpid/
+5605 Pinehurst Ln,Columbia,MO,65202,85500,1460.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5605-Pinehurst-Ln-Columbia-MO-65202/58716009_zpid/
+1513 Jake Ln,Columbia,MO,65203,200000,2295.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1513-Jake-Ln-Columbia-MO-65203/58706250_zpid/
+4404 W Rockhampton Cir,Columbia,MO,65203,189000,2140.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4404-W-Rockhampton-Cir-Columbia-MO-65203/58702516_zpid/
+19 E Leslie Ln,Columbia,MO,65202,119500,2300.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-E-Leslie-Ln-Columbia-MO-65202/58698442_zpid/
+1117 Sunset Ln,Columbia,MO,65203,175000,1315.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1117-Sunset-Ln-Columbia-MO-65203/58707076_zpid/
+609 Maplewood Dr,Columbia,MO,65203,177000,2268.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/609-Maplewood-Dr-Columbia-MO-65203/58707196_zpid/
+906 West Blvd N,Columbia,MO,65203,146400,1735.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/906-West-Blvd-N-Columbia-MO-65203/58699438_zpid/
+5589 Pinehurst Ln,Columbia,MO,65202,87000,1520.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5589-Pinehurst-Ln-Columbia-MO-65202/58715998_zpid/
+709 Fairview Ave,Columbia,MO,65201,88000,851.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/709-Fairview-Ave-Columbia-MO-65201/58700201_zpid/
+1997 Waterfront Dr N APT G,Columbia,MO,65202,65000,968.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1997-Waterfront-Dr-N-APT-G-Columbia-MO-65202/58714775_zpid/
+4804 E Heller Dr APT A,Columbia,MO,65202,89900,2247.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4804-E-Heller-Dr-APT-A-Columbia-MO-65202/2098292994_zpid/
+1456 S Sonora Dr,Columbia,MO,65201,135000,2940.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1456-S-Sonora-Dr-Columbia-MO-65201/2107165496_zpid/
+1717 Cliff Dr,Columbia,MO,65201,164900,1356.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1717-Cliff-Dr-Columbia-MO-65201/58717715_zpid/
+2904 Oak Lawn Dr,Columbia,MO,65203,270000,3020.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2904-Oak-Lawn-Dr-Columbia-MO-65203/58711004_zpid/
+3702 Bedford Dr,Columbia,MO,65203,246500,3039.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3702-Bedford-Dr-Columbia-MO-65203/58703682_zpid/
+2509 Martinshire Ct,Columbia,MO,65203,215000,2160.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2509-Martinshire-Ct-Columbia-MO-65203/58704166_zpid/
+1081 W Azoros Dr,Columbia,MO,65203,175000,1570.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1081-W-Azoros-Dr-Columbia-MO-65203/58723337_zpid/
+819 W Worley St,Columbia,MO,65203,84900,918.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/819-W-Worley-St-Columbia-MO-65203/58699594_zpid/
+N Hwy Vv,Columbia,MO,65202,29000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/N-Hwy-Vv-Columbia-MO-65202/2099732216_zpid/
+4701 Maple Leaf Dr,Columbia,MO,65201,318900,3515.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4701-Maple-Leaf-Dr-Columbia-MO-65201/102959203_zpid/
+4409 Melrose Dr,Columbia,MO,65203,269900,3173.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4409-Melrose-Dr-Columbia-MO-65203/58710689_zpid/
+4800 Maple Leaf Dr,Columbia,MO,65201,227000,2442.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4800-Maple-Leaf-Dr-Columbia-MO-65201/58714914_zpid/
+6600 S Hill Creek Rd,Columbia,MO,65203,315000,4038.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6600-S-Hill-Creek-Rd-Columbia-MO-65203/58720985_zpid/
+2704 Iron Gate,Columbia,MO,65202,173000,1521.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2704-Iron-Gate-Columbia-MO-65202/103709692_zpid/
+7220 E Highway Hh,Columbia,MO,65202,339900,3516.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7220-E-Highway-Hh-Columbia-MO-65202/58722985_zpid/
+5404 N Wild Horse Ct,Columbia,MO,65201,1269900,7150.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5404-N-Wild-Horse-Ct-Columbia-MO-65201/2092423960_zpid/
+509 Brogan Cellars Ln,Columbia,MO,65203,269900,2342.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-Brogan-Cellars-Ln-Columbia-MO-65203/80187063_zpid/
+910 Eastland Cir,Columbia,MO,65201,149500,2220.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/910-Eastland-Cir-Columbia-MO-65201/58714199_zpid/
+21 N Cedar Lake Dr W APT 205,Columbia,MO,65203,95000,1016.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-N-Cedar-Lake-Dr-W-APT-205-Columbia-MO-65203/58713025_zpid/
+511 W Ash St,Columbia,MO,65203,42500,8186.0,NA,NA,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/511-W-Ash-St-Columbia-MO-65203/58700969_zpid/
+Zoe Ln LOT 178,Columbia,MO,65201,25000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Zoe-Ln-LOT-178-Columbia-MO-65201/2093601086_zpid/
+5317-5319 Rice Rd,COLUMBIA,MO,65202,145000,2256.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5317-5319-Rice-Rd-Columbia-MO-65202/58715465_zpid/
+407 Park De Ville Pl,Columbia,MO,65203,86000,1031.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/407-Park-De-Ville-Pl-Columbia-MO-65203/58697881_zpid/
+202 Westwood Ave,Columbia,MO,65203,289000,2958.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/202-Westwood-Ave-Columbia-MO-65203/58707592_zpid/
+2404 Tahoe Ct,Columbia,MO,65203,275000,2968.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2404-Tahoe-Ct-Columbia-MO-65203/58705542_zpid/
+1911 Kenilworth Dr,Columbia,MO,65203,295000,2283.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1911-Kenilworth-Dr-Columbia-MO-65203/2093411885_zpid/
+11621 Interstate 70 Dr NE,Columbia,MO,65202,225000,1766.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11621-Interstate-70-Dr-NE-Columbia-MO-65202/2092855173_zpid/
+3200 Crawford St,Columbia,MO,65203,184900,1842.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3200-Crawford-St-Columbia-MO-65203/58710920_zpid/
+816 N William St,Columbia,MO,65201,89900,590.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-N-William-St-Columbia-MO-65201/58713891_zpid/
+1803 Limestone Ave,Columbia,MO,65203,189900,1781.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1803-Limestone-Ave-Columbia-MO-65203/70890782_zpid/
+10503 E Serenity Cir,Columbia,MO,65202,102500,960.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/10503-E-Serenity-Cir-Columbia-MO-65202/58719869_zpid/
+1405 Shannon Pl,Columbia,MO,65203,149900,1315.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1405-Shannon-Pl-Columbia-MO-65203/58706616_zpid/
+5502 Steeplechase Ct,Columbia,MO,65203,399000,2929.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5502-Steeplechase-Ct-Columbia-MO-65203/2093239228_zpid/
+905 Park De Ville Pl,Columbia,MO,65203,87000,1032.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/905-Park-De-Ville-Pl-Columbia-MO-65203/58697959_zpid/
+3004 Chickasaw Dr,Columbia,MO,65202,98900,917.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3004-Chickasaw-Dr-Columbia-MO-65202/58695153_zpid/
+804 S Fairview Rd APT A3,Columbia,MO,65203,84900,888.0,2.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/804-S-Fairview-Rd-APT-A3-Columbia-MO-65203/58705756_zpid/
+505 Columbia Dr APT B,Columbia,MO,65201,72900,1092.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/505-Columbia-Dr-APT-B-Columbia-MO-65201/58717434_zpid/
+812 Mikel St,Columbia,MO,65203,97000,828.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/812-Mikel-St-Columbia-MO-65203/58699382_zpid/
+503 Westwood Ave,Columbia,MO,65203,313800,2487.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/503-Westwood-Ave-Columbia-MO-65203/58707572_zpid/
+3204 Skylark Dr,Columbia,MO,65203,199900,2309.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3204-Skylark-Dr-Columbia-MO-65203/58710935_zpid/
+506 Crestland Ave,Columbia,MO,65203,245500,2273.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/506-Crestland-Ave-Columbia-MO-65203/58707150_zpid/
+1101 Parkridge Dr,Columbia,MO,65203,225000,2942.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1101-Parkridge-Dr-Columbia-MO-65203/58705952_zpid/
+4100 N Phoenix Rd,Columbia,MO,65202,153000,1686.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4100-N-Phoenix-Rd-Columbia-MO-65202/58715632_zpid/
+6290 N Gregory Dr,Columbia,MO,65202,134900,1322.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6290-N-Gregory-Dr-Columbia-MO-65202/70886359_zpid/
+1605 Native Dancer Dr,Columbia,MO,65202,139500,1400.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1605-Native-Dancer-Dr-Columbia-MO-65202/58694482_zpid/
+2811 Flora Dr,Columbia,MO,65202,79900,975.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2811-Flora-Dr-Columbia-MO-65202/58695432_zpid/
+306 W Worley St,Columbia,MO,65203,79900,928.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/306-W-Worley-St-Columbia-MO-65203/58701410_zpid/
+811 Broadhead St,Columbia,MO,65203,110000,908.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/811-Broadhead-St-Columbia-MO-65203/58700791_zpid/
+4218 Stevendave Dr,Columbia,MO,65202,109500,1820.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4218-Stevendave-Dr-Columbia-MO-65202/58715060_zpid/
+1703 Villa Dr,Columbia,MO,65202,87000,1690.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1703-Villa-Dr-Columbia-MO-65202/58715981_zpid/
+2601 Stratford Chase Pkwy,Columbia,MO,65201,259900,2631.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2601-Stratford-Chase-Pkwy-Columbia-MO-65201/83033617_zpid/
+2306 Cherry Ridge Ct,Columbia,MO,65203,274000,3296.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2306-Cherry-Ridge-Ct-Columbia-MO-65203/58704313_zpid/
+2408 Hillshire Dr,Columbia,MO,65203,239900,2816.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2408-Hillshire-Dr-Columbia-MO-65203/58704133_zpid/
+4501 Fall River Dr,Columbia,MO,65203,264900,3078.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4501-Fall-River-Dr-Columbia-MO-65203/58710520_zpid/
+1509 Thoroughbred Cir,Columbia,MO,65202,157000,1479.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1509-Thoroughbred-Cir-Columbia-MO-65202/58694045_zpid/
+408 Bourn Ave,Columbia,MO,65203,179900,1857.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/408-Bourn-Ave-Columbia-MO-65203/58705144_zpid/
+3412 Winners Cir,Columbia,MO,65202,160000,1934.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3412-Winners-Cir-Columbia-MO-65202/58695194_zpid/
+904 Colgate,Columbia,MO,65203,239900,3027.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/904-Colgate-Columbia-MO-65203/58705895_zpid/
+2406 Park De Ville Pl,Columbia,MO,65203,105000,1260.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2406-Park-De-Ville-Pl-Columbia-MO-65203/58697984_zpid/
+981 E Quince Ct,Columbia,MO,65202,99900,1200.0,3.0,2.0,NA,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/981-E-Quince-Ct-Columbia-MO-65202/58692313_zpid/
+2314 Mace Dr,Columbia,MO,65201,199900,1563.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2314-Mace-Dr-Columbia-MO-65201/2093658577_zpid/
+2409-2411 Carnation Dr # 2,Columbia,MO,65202,199000,2584.0,6.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2409-2411-Carnation-Dr-2-Columbia-MO-65202/2092635233_zpid/
+2007 Waterfront Dr N APT G,Columbia,MO,65202,79900,968.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2007-Waterfront-Dr-N-APT-G-Columbia-MO-65202/58714767_zpid/
+6000 S Rangeline Rd,Columbia,MO,65201,325000,2400.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6000-S-Rangeline-Rd-Columbia-MO-65201/2094806822_zpid/
+3401 Longfords Mill Dr,Columbia,MO,65203,314900,2860.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3401-Longfords-Mill-Dr-Columbia-MO-65203/70891013_zpid/
+5455 N Kircher Rd,Columbia,MO,65202,249000,1858.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5455-N-Kircher-Rd-Columbia-MO-65202/2093069177_zpid/
+2909 Lake Town Dr,Columbia,MO,65203,264900,2990.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2909-Lake-Town-Dr-Columbia-MO-65203/58709351_zpid/
+6501 S Old Village Rd,Columbia,MO,65203,185000,2458.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6501-S-Old-Village-Rd-Columbia-MO-65203/60057375_zpid/
+4733 Brandon Woods St,Columbia,MO,65203,113000,1185.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4733-Brandon-Woods-St-Columbia-MO-65203/58712933_zpid/
+1515 Thoroughbred Cir,Columbia,MO,65202,144999,1496.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1515-Thoroughbred-Cir-Columbia-MO-65202/58694048_zpid/
+6225 S Hummingbird Ln,Columbia,MO,65201,129900,1400.0,3.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/6225-S-Hummingbird-Ln-Columbia-MO-65201/2096060854_zpid/
+2912 Lake Town Dr,Columbia,MO,65203,195000,1711.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2912-Lake-Town-Dr-Columbia-MO-65203/58709360_zpid/
+3505 Longfords Mill Dr,Columbia,MO,65203,215000,1760.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3505-Longfords-Mill-Dr-Columbia-MO-65203/70891021_zpid/
+4523 E Brynleigh Ct,Columbia,MO,65202,134900,1252.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4523-E-Brynleigh-Ct-Columbia-MO-65202/2092808648_zpid/
+5502 Prairie Rose Ct,Columbia,MO,65202,124900,1138.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5502-Prairie-Rose-Ct-Columbia-MO-65202/58695677_zpid/
+2319 Magnolia Ct,Columbia,MO,65202,159900,2580.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2319-Magnolia-Ct-Columbia-MO-65202/58697405_zpid/
+208 W El Cortez Dr,Columbia,MO,65203,119000,1066.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/208-W-El-Cortez-Dr-Columbia-MO-65203/58712303_zpid/
+1305 N Golf Blvd,Columbia,MO,65202,180000,2984.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1305-N-Golf-Blvd-Columbia-MO-65202/58716674_zpid/
+5504-5506 Volunteer Dr,Columbia,MO,65201,210000,3296.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5504-5506-Volunteer-Dr-Columbia-MO-65201/67323490_zpid/
+703 Westmount Ave,Columbia,MO,65203,550000,3506.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/703-Westmount-Ave-Columbia-MO-65203/58707806_zpid/
+3105 Trailside Dr,Columbia,MO,65203,357900,3872.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3105-Trailside-Dr-Columbia-MO-65203/58709190_zpid/
+5121 N Route E,Columbia,MO,65202,220000,3205.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5121-N-Route-E-Columbia-MO-65202/58691628_zpid/
+10378 E Highway Ww,Columbia,MO,65201,229900,2728.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10378-E-Highway-Ww-Columbia-MO-65201/58719941_zpid/
+6171 N Gregory Dr,Columbia,MO,65202,193000,2836.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6171-N-Gregory-Dr-Columbia-MO-65202/58723001_zpid/
+4441 Roemer Rd,Columbia,MO,65202,265500,3079.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4441-Roemer-Rd-Columbia-MO-65202/58691693_zpid/
+1400 S West Georgetown Loop,Columbia,MO,65203,167900,2011.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1400-S-West-Georgetown-Loop-Columbia-MO-65203/58702325_zpid/
+2280 S Alamos Pl,Columbia,MO,65201,141700,1732.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2280-S-Alamos-Pl-Columbia-MO-65201/58719007_zpid/
+1706 High Quest Dr,Columbia,MO,65202,137900,1334.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1706-High-Quest-Dr-Columbia-MO-65202/58694471_zpid/
+3900 Cannon Ct,Columbia,MO,65202,149900,2198.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3900-Cannon-Ct-Columbia-MO-65202/58694882_zpid/
+2408 Fleetwood Dr,Columbia,MO,65202,145000,1858.0,4.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/2408-Fleetwood-Dr-Columbia-MO-65202/58713357_zpid/
+3607 Woods Edge Rd,Columbia,MO,65203,279900,2776.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3607-Woods-Edge-Rd-Columbia-MO-65203/58709660_zpid/
+4211 Spring Cress Dr,Columbia,MO,65202,162900,1620.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4211-Spring-Cress-Dr-Columbia-MO-65202/70890577_zpid/
+5300 Silver Mill Dr,Columbia,MO,65202,139000,1447.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5300-Silver-Mill-Dr-Columbia-MO-65202/80185068_zpid/
+2006 Park De Ville Pl,Columbia,MO,65203,119600,1031.0,2.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2006-Park-De-Ville-Pl-Columbia-MO-65203/58698064_zpid/
+3209 Elm Grove Dr,Columbia,MO,65202,110000,1128.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3209-Elm-Grove-Dr-Columbia-MO-65202/58694580_zpid/
+5319 N Rocky Fork Dr,Columbia,MO,65202,140000,2057.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5319-N-Rocky-Fork-Dr-Columbia-MO-65202/58691479_zpid/
+8410 N Hillview Dr,Hallsville,MO,65202,142500,1336.0,3.0,2.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8410-N-Hillview-Dr-Hallsville-MO-65202/2093005978_zpid/
+5603 Saddle Ridge Dr,Columbia,MO,65203,629000,6289.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5603-Saddle-Ridge-Dr-Columbia-MO-65203/67318612_zpid/
+707 N William St,Columbia,MO,65201,149000,1075.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/707-N-William-St-Columbia-MO-65201/58713841_zpid/
+904 Thames Ct,Columbia,MO,65202,120000,1200.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/904-Thames-Ct-Columbia-MO-65202/58723058_zpid/
+2801 W Broadway APT T2,Columbia,MO,65203,99500,1184.0,2.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2801-W-Broadway-APT-T2-Columbia-MO-65203/58697262_zpid/
+501 Huntridge Dr,Columbia,MO,65201,109000,1241.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/501-Huntridge-Dr-Columbia-MO-65201/58711584_zpid/
+2007 Waterfront Dr N APT A,Columbia,MO,65202,74900,968.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2007-Waterfront-Dr-N-APT-A-Columbia-MO-65202/58714761_zpid/
+5219 N Clearview Ct,Columbia,MO,65202,74000,1120.0,3.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5219-N-Clearview-Ct-Columbia-MO-65202/58691411_zpid/
+5009-5011 Alpine Ridge Dr,Columbia,MO,65202,205000,3302.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5009-5011-Alpine-Ridge-Dr-Columbia-MO-65202/70890453_zpid/
+Old Hawthorne LOT 104,Columbia,MO,65201,58500,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Old-Hawthorne-LOT-104-Columbia-MO-65201/2092573931_zpid/
+Engle Dr LOT 34A,Columbia,MO,65203,59900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Engle-Dr-LOT-34A-Columbia-MO-65203/2092415405_zpid/
+N Perche Pointe Pl LOT 312,Columbia,MO,65203,59900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/N-Perche-Pointe-Pl-LOT-312-Columbia-MO-65203/2092415406_zpid/
+Arbor Pointe LOT 387,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-387-Columbia-MO-65202/2092654338_zpid/
+Arbor Pointe LOT 380,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-380-Columbia-MO-65202/2092654337_zpid/
+Arbor Pointe LOT 379,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-379-Columbia-MO-65202/2092654336_zpid/
+Arbor Pointe LOT 385,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-385-Columbia-MO-65202/2092654341_zpid/
+Arbor Pointe LOT 382,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-382-Columbia-MO-65202/2092654335_zpid/
+Arbor Pointe LOT 378,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-378-Columbia-MO-65202/2092654334_zpid/
+Arbor Pointe LOT 386,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-386-Columbia-MO-65202/2092654340_zpid/
+Arbor Pointe LOT 383,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-383-Columbia-MO-65202/2092654339_zpid/
+Arbor Pointe LOT 384,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-384-Columbia-MO-65202/2092655986_zpid/
+800 Rutland Dr,Columbia,MO,65203,257500,1755.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/800-Rutland-Dr-Columbia-MO-65203/2094212183_zpid/
+4508 Fall River Dr,Columbia,MO,65203,312500,2970.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4508-Fall-River-Dr-Columbia-MO-65203/58710503_zpid/
+4081 Thompson Rd,Columbia,MO,65202,200000,3578.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4081-Thompson-Rd-Columbia-MO-65202/2092749249_zpid/
+3501 N Forestview Rd,Columbia,MO,65202,174900,1867.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3501-N-Forestview-Rd-Columbia-MO-65202/58691656_zpid/
+4311 Forum Blvd,Columbia,MO,65203,185000,2142.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4311-Forum-Blvd-Columbia-MO-65203/58710369_zpid/
+8 Dundee Dr,Columbia,MO,65203,140000,2111.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Dundee-Dr-Columbia-MO-65203/58704910_zpid/
+2904 Clover Way,Columbia,MO,65201,150000,2540.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2904-Clover-Way-Columbia-MO-65201/58711574_zpid/
+4 Lexibelle Dr,Columbia,MO,65201,224900,2050.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Lexibelle-Dr-Columbia-MO-65201/67323362_zpid/
+1809 Brandeis Ct,Columbia,MO,65203,178900,1654.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1809-Brandeis-Ct-Columbia-MO-65203/58704431_zpid/
+4006 W Worley St APT 105,Columbia,MO,65203,165900,1379.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4006-W-Worley-St-APT-105-Columbia-MO-65203/2096016308_zpid/
+3404 Derby Ridge Dr,Columbia,MO,65202,162850,1914.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3404-Derby-Ridge-Dr-Columbia-MO-65202/58695189_zpid/
+7000 E New Haven Rd,Columbia,MO,65201,174500,1097.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7000-E-New-Haven-Rd-Columbia-MO-65201/58719802_zpid/
+7615 S Nursery Rd,Columbia,MO,65203,375000,3419.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7615-S-Nursery-Rd-Columbia-MO-65203/2092354743_zpid/
+1631 Kathy Dr,Columbia,MO,65202,129900,1512.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1631-Kathy-Dr-Columbia-MO-65202/58698879_zpid/
+3581 N Manchester Dr,Columbia,MO,65202,126900,1214.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3581-N-Manchester-Dr-Columbia-MO-65202/58696177_zpid/
+3601 Amethyst Dr,Columbia,MO,65202,154900,1305.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-Amethyst-Dr-Columbia-MO-65202/70886162_zpid/
+4816 Bethel St,Columbia,MO,65203,113000,1320.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4816-Bethel-St-Columbia-MO-65203/58712951_zpid/
+2918 Woods Crossing Dr,Columbia,MO,65202,167000,1538.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2918-Woods-Crossing-Dr-Columbia-MO-65202/82754133_zpid/
+1324 S Pecos Ave,Columbia,MO,65201,155000,2026.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1324-S-Pecos-Ave-Columbia-MO-65201/58718730_zpid/
+5707 Vero Way,Columbia,MO,65201,164900,1489.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5707-Vero-Way-Columbia-MO-65201/70890899_zpid/
+1002 Eastland Cir,Columbia,MO,65201,139900,1612.0,2.0,1.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1002-Eastland-Cir-Columbia-MO-65201/58714200_zpid/
+7404 Pemberton Dr,Columbia,MO,65203,294900,2305.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7404-Pemberton-Dr-Columbia-MO-65203/2092682577_zpid/
+240 E Tully Ct,Columbia,MO,65202,129900,1200.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-E-Tully-Ct-Columbia-MO-65202/58692159_zpid/
+6130 S Sinclair Rd,Columbia,MO,65203,164900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/6130-S-Sinclair-Rd-Columbia-MO-65203/2094914667_zpid/
+4502 E Brynleigh Ct,Columbia,MO,65202,140450,1307.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4502-E-Brynleigh-Ct-Columbia-MO-65202/2092500956_zpid/
+49 E Sandker Ln,Columbia,MO,65202,128500,1350.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/49-E-Sandker-Ln-Columbia-MO-65202/58692202_zpid/
+Worstell Ln LOT 3,Columbia,MO,65202,34999,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Worstell-Ln-LOT-3-Columbia-MO-65202/2103173784_zpid/
+7217 N Moberly Dr,Columbia,MO,65202,119000,3064.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/7217-N-Moberly-Dr-Columbia-MO-65202/58691328_zpid/
+7213 N Moberly Dr,Columbia,MO,65202,119000,NA,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/7213-N-Moberly-Dr-Columbia-MO-65202/58691327_zpid/
+Lot 13 Stevendave,Columbia,MO,65202,7900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Lot-13-Stevendave-Columbia-MO-65202/2094790419_zpid/
+5104-5106 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5104-5106-Flurry-Dr-Columbia-MO-65202/83031855_zpid/
+5100-5102 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5100-5102-Flurry-Dr-Columbia-MO-65202/83034696_zpid/
+5212-5214 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5212-5214-Flurry-Dr-Columbia-MO-65202/83033424_zpid/
+5203-5205 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5203-5205-Flurry-Dr-Columbia-MO-65202/83032745_zpid/
+5112-5114 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5112-5114-Flurry-Dr-Columbia-MO-65202/83030439_zpid/
+5108-5110 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5108-5110-Flurry-Dr-Columbia-MO-65202/83035477_zpid/
+5204-5206 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5204-5206-Flurry-Dr-Columbia-MO-65202/83033732_zpid/
+5116-5118 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5116-5118-Flurry-Dr-Columbia-MO-65202/83034905_zpid/
+Arbor Pointe LOT 381,Columbia,MO,65202,41900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Arbor-Pointe-LOT-381-Columbia-MO-65202/2092604292_zpid/
+5200-5202 Flurry Dr,COLUMBIA,MO,65202,210000,3004.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5200-5202-Flurry-Dr-Columbia-MO-65202/83033103_zpid/
+2704 Rutherford Dr,COLUMBIA,MO,65201,345000,2563.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2704-Rutherford-Dr-Columbia-MO-65201/103668793_zpid/
+2400 Topaz Dr,Columbia,MO,65203,255000,2504.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2400-Topaz-Dr-Columbia-MO-65203/58705553_zpid/
+2605 Chapel Wood Ter,Columbia,MO,65203,349900,4037.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2605-Chapel-Wood-Ter-Columbia-MO-65203/58704360_zpid/
+4210 Steinbrooke Ter,Columbia,MO,65203,239400,1760.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4210-Steinbrooke-Ter-Columbia-MO-65203/2092527487_zpid/
+2609 Hillshire Dr,Columbia,MO,65203,257500,3093.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2609-Hillshire-Dr-Columbia-MO-65203/58704159_zpid/
+2615 Mallard Ct,Columbia,MO,65201,212000,2325.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2615-Mallard-Ct-Columbia-MO-65201/58718376_zpid/
+3704 Wakefield Dr,Columbia,MO,65203,199900,2057.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3704-Wakefield-Dr-Columbia-MO-65203/58712062_zpid/
+3400 Churchill Dr,Columbia,MO,65201,139000,1264.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3400-Churchill-Dr-Columbia-MO-65201/58719423_zpid/
+3715 Wakefield Dr,Columbia,MO,65203,229900,2515.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3715-Wakefield-Dr-Columbia-MO-65203/58712058_zpid/
+7470 E Suncrest Ct,Columbia,MO,65201,138950,1390.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7470-E-Suncrest-Ct-Columbia-MO-65201/58717336_zpid/
+1601 Parklawn Ct,Columbia,MO,65202,165000,2421.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1601-Parklawn-Ct-Columbia-MO-65202/58698852_zpid/
+1805 Parkade Blvd,Columbia,MO,65202,145000,1615.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-Parkade-Blvd-Columbia-MO-65202/58698652_zpid/
+2011 Cecil St,Columbia,MO,65201,199900,1573.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2011-Cecil-St-Columbia-MO-65201/89254790_zpid/
+4470 N Cindy Ln,Columbia,MO,65202,344900,3660.0,4.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4470-N-Cindy-Ln-Columbia-MO-65202/58691712_zpid/
+904 West Blvd N,Columbia,MO,65203,140000,1215.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/904-West-Blvd-N-Columbia-MO-65203/58699437_zpid/
+2463 S Roby Farm Rd,Columbia,MO,65203,950000,6142.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2463-S-Roby-Farm-Rd-Columbia-MO-65203/2092473695_zpid/
+302 Cedar Falls Ct,Columbia,MO,65203,379000,3601.0,5.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/302-Cedar-Falls-Ct-Columbia-MO-65203/103716909_zpid/
+3404 W Worley St,Columbia,MO,65203,199000,2270.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3404-W-Worley-St-Columbia-MO-65203/58697769_zpid/
+3802 Creekfront Way,Columbia,MO,65203,255000,2080.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3802-Creekfront-Way-Columbia-MO-65203/67317630_zpid/
+221 N Sunny Side Ct,Columbia,MO,65201,140000,1604.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/221-N-Sunny-Side-Ct-Columbia-MO-65201/58717235_zpid/
+4600 Oakview Dr,Columbia,MO,65202,135000,1940.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4600-Oakview-Dr-Columbia-MO-65202/58696022_zpid/
+5208 Silver Mill Dr,Columbia,MO,65202,145900,1428.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5208-Silver-Mill-Dr-Columbia-MO-65202/2092845280_zpid/
+3503 Yellowwood Dr,Columbia,MO,65202,205000,1643.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3503-Yellowwood-Dr-Columbia-MO-65202/2092557622_zpid/
+4902 Aspen Ridge Dr,Columbia,MO,65202,167900,1415.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4902-Aspen-Ridge-Dr-Columbia-MO-65202/2093357677_zpid/
+1812 E Riviera Dr,Columbia,MO,65202,134900,1452.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1812-E-Riviera-Dr-Columbia-MO-65202/58694409_zpid/
+3511 Hialeah Dr,Columbia,MO,65201,174900,1800.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3511-Hialeah-Dr-Columbia-MO-65201/58719389_zpid/
+1613-1615 N Telluride Ln # 1613-1615,Columbia,MO,65201,180000,2470.0,3.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1613-1615-N-Telluride-Ln-1613-1615-Columbia-MO-65201/2093311397_zpid/
+4739 Brandon Woods St,Columbia,MO,65203,119000,1185.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4739-Brandon-Woods-St-Columbia-MO-65203/58712936_zpid/
+Route E N,Columbia,MO,65202,700000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Route-E-N-Columbia-MO-65202/103672215_zpid/
+109 Lynn St,Columbia,MO,65203,117000,1300.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/109-Lynn-St-Columbia-MO-65203/2092954037_zpid/
+0 Creasy Springs Rd,Columbia,MO,65202,28000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Creasy-Springs-Rd-Columbia-MO-65202/2100728789_zpid/
+Heath Ct LOT 29A,Columbia,MO,65203,64900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Heath-Ct-LOT-29A-Columbia-MO-65203/2092413460_zpid/
+1990 W High Point Ln Section # 1,Columbia,MO,65203,324900,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1990-W-High-Point-Ln-Section-1-Columbia-MO-65203/2093548172_zpid/
+5525-5527 Volunteer Dr,COLUMBIA,MO,65201,223100,3248.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5525-5527-Volunteer-Dr-Columbia-MO-65201/67323466_zpid/
+1211 Clinkscales Rd,Columbia,MO,65202,299000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1211-Clinkscales-Rd-Columbia-MO-65202/2093154511_zpid/
+2309 N Creasy Springs Rd # A+B,Columbia,MO,65202,166500,NA,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2309-N-Creasy-Springs-Rd-A+B-Columbia-MO-65202/2100728676_zpid/
+1990 W High Point Ln Section # 2,Columbia,MO,65203,342000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1990-W-High-Point-Ln-Section-2-Columbia-MO-65203/2093548171_zpid/
+600 Thilly Ave,Columbia,MO,65203,485000,4098.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/600-Thilly-Ave-Columbia-MO-65203/58707764_zpid/
+3407 Longfords Mill Dr,Columbia,MO,65203,270000,2770.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3407-Longfords-Mill-Dr-Columbia-MO-65203/70891016_zpid/
+4402 Ryefield Ct,Columbia,MO,65203,325000,2569.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4402-Ryefield-Ct-Columbia-MO-65203/89290108_zpid/
+5408 Heath Ct,Columbia,MO,65203,241500,1740.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5408-Heath-Ct-Columbia-MO-65203/2094492179_zpid/
+3105 Belinda Ct,Columbia,MO,65203,265000,2312.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3105-Belinda-Ct-Columbia-MO-65203/80184919_zpid/
+3602 Flatwater Dr,Columbia,MO,65202,189999,1760.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3602-Flatwater-Dr-Columbia-MO-65202/83033990_zpid/
+3505 Snow Leopard Dr,Columbia,MO,65202,224400,2520.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3505-Snow-Leopard-Dr-Columbia-MO-65202/80268727_zpid/
+4109 W Rollins Rd,Columbia,MO,65203,219900,2658.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4109-W-Rollins-Rd-Columbia-MO-65203/58704544_zpid/
+7402 Rosedown Dr,Columbia,MO,65203,250000,2044.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7402-Rosedown-Dr-Columbia-MO-65203/103708619_zpid/
+1309 Ridge Rd,Columbia,MO,65203,182000,1903.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1309-Ridge-Rd-Columbia-MO-65203/58708119_zpid/
+5808 Mahon Dr,COLUMBIA,MO,65201,164900,1417.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5808-Mahon-Dr-Columbia-MO-65201/103695368_zpid/
+509 W Ash St,Columbia,MO,65203,99990,800.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-W-Ash-St-Columbia-MO-65203/58700970_zpid/
+7620 W Black Walnut Dr,Columbia,MO,65202,199900,1700.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7620-W-Black-Walnut-Dr-Columbia-MO-65202/2094120333_zpid/
+4515 W Knox Dr,Columbia,MO,65203,145000,1490.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4515-W-Knox-Dr-Columbia-MO-65203/58702949_zpid/
+4700 Gage Pl,Columbia,MO,65203,209000,2324.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4700-Gage-Pl-Columbia-MO-65203/58702452_zpid/
+4306 Mount Carmel Ln,Columbia,MO,65203,149900,1934.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4306-Mount-Carmel-Ln-Columbia-MO-65203/67317114_zpid/
+3604 Flatwater Dr,Columbia,MO,65202,205000,1678.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3604-Flatwater-Dr-Columbia-MO-65202/102969266_zpid/
+4609 Pierre St,Columbia,MO,65202,102000,1560.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4609-Pierre-St-Columbia-MO-65202/58715229_zpid/
+609 Florence Ave,Columbia,MO,65203,119900,1155.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/609-Florence-Ave-Columbia-MO-65203/58699573_zpid/
+1600 Kathy Dr,Columbia,MO,65202,137900,1370.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1600-Kathy-Dr-Columbia-MO-65202/58698873_zpid/
+617 Huntridge Dr,Columbia,MO,65201,109900,1288.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/617-Huntridge-Dr-Columbia-MO-65201/58711610_zpid/
+703 Westmount Ave LOT 53,Columbia,MO,65203,250000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/703-Westmount-Ave-LOT-53-Columbia-MO-65203/2095205926_zpid/
+58 Acres N Stadium Blvd,Columbia,MO,65202,498000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/58-Acres-N-Stadium-Blvd-Columbia-MO-65202/2092406810_zpid/
+1314 Saint Christopher St,Columbia,MO,65203,145000,1525.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Saint-Christopher-St-Columbia-MO-65203/58708190_zpid/
+3211 Belinda Ct,Columbia,MO,65203,212500,1555.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3211-Belinda-Ct-Columbia-MO-65203/80181296_zpid/
+3311 Lance Dr,Columbia,MO,65202,144900,1627.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3311-Lance-Dr-Columbia-MO-65202/58695090_zpid/
+201 Copper Mountain Dr,Columbia,MO,65202,179900,1562.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-Copper-Mountain-Dr-Columbia-MO-65202/2092573936_zpid/
+2319 Mace Dr,Columbia,MO,65201,205000,1555.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2319-Mace-Dr-Columbia-MO-65201/2093418359_zpid/
+261 N Moonglow Ln,Columbia,MO,65201,154500,2154.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-N-Moonglow-Ln-Columbia-MO-65201/58717303_zpid/
+Delwood Dr LOT 329,Columbia,MO,65202,174900,1524.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Delwood-Dr-LOT-329-Columbia-MO-65202/2092985716_zpid/
+4006 Cotton Wood Dr,Columbia,MO,65202,162000,1529.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4006-Cotton-Wood-Dr-Columbia-MO-65202/67317597_zpid/
+4500 E Brynleigh Ct,Columbia,MO,65202,140450,1307.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4500-E-Brynleigh-Ct-Columbia-MO-65202/2092500327_zpid/
